@@ -31,7 +31,7 @@
 <br>
 
 ## 💻 Projeto
-Esse é um projeto de estudos de automação com Cypress seguindo os ensinamentos da [QANinja](https://qaninja.academy/)
+Esse é um projeto de automação de testes com Cypress seguindo os ensinamentos da [QANinja](https://qaninja.academy/)
 
 BugerEats é uma plataforma de delivery, onde entregadores de todo Brasil podem se cadastrar em diferentes modalidades de entrega,
 conheça mais 👉 [aqui](https://buger-eats.vercel.app/)
